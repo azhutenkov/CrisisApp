@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  Crisis
+
+  Created by Alexey Zhutenkov on 06/10/2019.
+*/
+
+/* Dashboard */
+"Dashboard_buttonNormalTitle" = "Хочу успокоить нервы!";
+"Dashboard_buttonPressedTitle" = "Всё отлично! Хватит!";
+/* Calculator */
+"Calculator_title" = "Конвертер";
